@@ -1,0 +1,22 @@
+
+Tpython:S1066¨"/Merge this if statement with the enclosing one.(‘’Ïşÿÿÿÿÿ8ñç§×€1
+bpython:S6353¤"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(­¢æü8ñç§×€1
+Npython:S1940«")Use the opposite operator ("!=") instead.(Ôİ€äşÿÿÿÿ8ñç§×€1
+3python:S1700Ö"Rename field "link"(¼ñÖ›8ñç§×€1
+Jpython:S1172è"+Remove the unused function parameter "obj".(£®Ñg8ñç§×€1
+Ppython:S1172"+Remove the unused function parameter "cls".(×ÉËÃÿÿÿÿÿ8ñç§×€1
+vpython:S2710º"QRename "mcls" to a valid class parameter name or add the missing class parameter.(É°½Ñıÿÿÿÿ8ñç§×€1
+Npython:S1172‡
+".Remove the unused function parameter "kwargs".(îñ®¬8òç§×€1
+qpython:S1134ö
+"LTake the required action to fix the issue indicated by this "FIXME" comment.(ƒàğĞûÿÿÿÿ8òç§×€1
+=python:S3626—"Remove this redundant return.(ÙãŞŸ8òç§×€1
+=python:S3626ª"Remove this redundant return.(ÙãŞŸ8òç§×€1
+Kpython:S5806ô"+Rename this variable; it shadows a builtin.(…öÁ8òç§×€1
+Spython:S1172È".Remove the unused function parameter "kwargs".(èÚùùÿÿÿÿ8òç§×€1
+npython:S3358ó"IExtract this nested conditional expression into an independent statement.(ùöÀ£ùÿÿÿÿ8òç§×€1
+Spython:S1172…".Remove the unused function parameter "kwargs".(èÚùùÿÿÿÿ8òç§×€1
+npython:S3358›"IExtract this nested conditional expression into an independent statement.(ùöÀ£ùÿÿÿÿ8òç§×€1
+npython:S3358Ï"IExtract this nested conditional expression into an independent statement.(ùöÀ£ùÿÿÿÿ8òç§×€1
+Lpython:S2638Ù"'Add a default value to parameter index.(ãŸÀÿÿÿÿÿ8óç§×€1
+npython:S3358Ÿ"IExtract this nested conditional expression into an independent statement.(ùöÀ£ùÿÿÿÿ8óç§×€1

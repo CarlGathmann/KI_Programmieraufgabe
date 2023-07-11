@@ -1,0 +1,32 @@
+
+epython:S117–"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(’’¼¤
+epython:S117÷"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(®˜ä½
+jpython:S117‘"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê›÷êúÿÿÿÿ
+epython:S117¹"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(û³õ¿
+Cpython:S1481Ğ"%Remove the unused local variable "i".(¾ ²ãùÿÿÿÿ
+jpython:S1134ó"LTake the required action to fix the issue indicated by this "FIXME" comment.(µ¹½øÿÿÿÿ
+jpython:S117‡"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉåÏÂùÿÿÿÿ
+jpython:S117’"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ö±¨ıÿÿÿÿ
+epython:S117Ö"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ëÚÊ
+jpython:S117ƒ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(æÔíúÿÿÿÿ
+jpython:S117¼"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(§½Àüÿÿÿÿ
+Qpython:S930Ë"4Remove this unexpected named argument 'check_input'.(øöÓøÿÿÿÿ
+jpython:S117×"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉåÏÂùÿÿÿÿ
+epython:S117Ÿ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑÈª¡
+dpython:S117Æ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù‘A
+Gpython:S1481î")Remove the unused local variable "proba".(’šøøÿÿÿÿÿ
+dpython:S117ö"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãú»
+epython:S117À"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑÈª¡
+jpython:S117ì"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(§½Àüÿÿÿÿ
+Qpython:S930û"4Remove this unexpected named argument 'check_input'.(®‰¨šÿÿÿÿÿ
+jpython:S117„"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉåÏÂùÿÿÿÿ
+jpython:S107è
+"MMethod "__init__" has 18 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+jpython:S107»"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+jpython:S107›"MMethod "__init__" has 18 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+jpython:S107á"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+jpython:S117Œ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉåÏÂùÿÿÿÿ
+epython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(±†çÁ
+jpython:S117­"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛŠªˆüÿÿÿÿ
+gpython:S1226­"IIntroduce a new variable or use its initial value before reassigning 'y'.(ÛŠªˆüÿÿÿÿ
+epython:S117ñ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(É…òó
