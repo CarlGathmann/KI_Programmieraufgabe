@@ -1,5 +1,4 @@
-torch
-torchvision
 numpy
+sklearn
+PIL
 matplotlib
-pillow
